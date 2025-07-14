@@ -1,0 +1,4 @@
+Carpeta para guardar iconos e imagens
+#assents
+    -icons
+ v  -images
